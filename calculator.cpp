@@ -7,7 +7,12 @@ int main(){
     cin>>n;
     int a,b;
     cin>>a>>b;
+
     if(n==1){
         cout<<"addition result="<<(a+b);
+
+    if(n==2){
+        cout<<"subtraction result="<<(a-b);
+
     }
 }
